@@ -65,6 +65,10 @@ jobs:
           IPA_URL: ${{ inputs.ipa_url }}
         run: |
           megadl --no-progress --path youtube.ipa "$IPA_URL"
+          if [ ! -f youtube.ipa ] || [ ! -s youtube.ipa ]; then
+            echo "::error::Failed to download IPA from Mega link"
+            exit 1
+          fi
 
       - name: Download IPA from direct URL
         if: ${{ !startsWith(inputs.ipa_url, 'https://mega.nz/') }}
@@ -72,10 +76,24 @@ jobs:
           IPA_URL: ${{ inputs.ipa_url }}
         run: |
           wget "$IPA_URL" --quiet --no-verbose -O youtube.ipa
+          if [ ! -f youtube.ipa ] || [ ! -s youtube.ipa ]; then
+            echo "::error::Failed to download IPA from direct URL"
+            exit 1
+          fi
 
       - name: Validate IPA
         run: |
+          if [ ! -f youtube.ipa ]; then
+            echo "::error::IPA file not found"
+            exit 1
+          fi
+    
           file_type=$(file --mime-type -b youtube.ipa)
+          file_info=$(file youtube.ipa)
+    
+          echo "File MIME type: $file_type"
+          echo "File info: $file_info"
+          echo "File size: $(stat -f%z youtube.ipa 2>/dev/null || stat -c%s youtube.ipa) bytes"
 
           if [[ "$file_type" != "application/x-ios-app" && "$file_type" != "application/zip" ]]; then
             echo "::error::Validation failed: The downloaded file is not a valid IPA. Detected type: $file_type."
