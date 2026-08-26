@@ -36,7 +36,7 @@ Lời khuyên cuối: Nếu muốn sự an tâm lâu dài, hãy dùng YTLitePlus
 Trong thiết kế kỹ thuật, một hệ thống tốt không phải là hệ thống có thể thêm vào không giới hạn, mà là hệ thống không còn gì để loại bỏ. YTPlusM vi phạm nguyên tắc này. Hãy tiếp tục trung thành với YTLitePlusEXTRA.
 
 =============
-[TubeVault Github Repository](https://www.reddit.com/r/YoutubePlusSideloaded/comments/1ud2m86/ytkillerplus_youtube_killer_plus_v572_cracked/)
+[TubeVault Github Repository](https://www.reddit.com/r/YoutubePlusSideloaded/comments/1ud2m86/ytkillerplus_youtube_killer_plus_v572_cracked/)   |   https://repo.ballermc.com/repo.json
 
 https://github.com/Mine-Fork-Project/YTLite
 
