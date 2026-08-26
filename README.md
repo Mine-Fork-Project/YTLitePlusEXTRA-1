@@ -68,7 +68,8 @@ https://github.com/34306/Patched-TS-App 1.0
 `C:\Users\Chuctran\AppData\Local\Sideloadly\MATERIALS`
 
 ```
-https://github.com/Mark02-2012/YTPlaybackFix  It simply works by reloading the video every time the "something went wrong" error appears, so you only see a small black screen for a maximum of one second.
+https://github.com/Mark02-2012/YTPlaybackFix
+It simply works by reloading the video every time the "something went wrong" error appears, so you only see a small black screen for a maximum of one second.
 ```
 # YTLitePlusEXTRA
 This is a fork repo from YTLite but adds more tweaks similar to YTLitePlus for those who can't build IPA or The app is unusable.
