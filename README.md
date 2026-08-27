@@ -12,11 +12,11 @@ YTM 9.34.4 [v8.20.4 for iOS15]
 
 **https://dvntm.com**
 
-Infuse 8.5.1
+Infuse 8.5.2
 
-Facebook 575.0.0
+Facebook 576.0.0
 
-Messenger 575.0.0
+Messenger 576.0.0
 
 Spotify 9.1.76
 
