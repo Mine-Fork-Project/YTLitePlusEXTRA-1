@@ -6,7 +6,7 @@ Telegram Bot: @eeveedecrypterbot   ||  [https://armconverter.com](https://armcon
 https://filebin.net/edend3up6ectv10l 13/08/26 Expire
 OR use https://catbox.moe/ keep files FOREVER
 
-YT 21.35.3 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15] https://github.com/diarrhea3/YTLiteDiarrhea
+YT 21.36.6 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15] https://github.com/diarrhea3/YTLiteDiarrhea
 
 YTM 9.35.2 [v8.20.4 for iOS15]
 
@@ -18,7 +18,7 @@ Facebook 577.1.0
 
 Messenger 577.0.0
 
-Spotify 9.1.78
+Spotify 9.1.80
 
 =============
 <img width="1611" height="361" alt="YT Forks" src="https://github.com/user-attachments/assets/e1d07daa-bc6a-4e90-bcd6-33713d14603d" />
