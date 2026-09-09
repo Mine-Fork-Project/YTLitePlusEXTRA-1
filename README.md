@@ -8,15 +8,15 @@ OR use https://catbox.moe/ keep files FOREVER
 
 YT 21.36.6 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15] https://github.com/diarrhea3/YTLiteDiarrhea
 
-YTM 9.35.2 [v8.20.4 for iOS15]
+YTM 9.36.2 [v8.20.4 for iOS15]
 
 **https://dvntm.com**
 
 Infuse 8.5.3
 
-Facebook 577.1.0
+Facebook 578.1.0
 
-Messenger 577.0.0
+Messenger 578.1.0
 
 Spotify 9.1.80
 
