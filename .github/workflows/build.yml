@@ -108,6 +108,9 @@ jobs:
       - name: Install Dependencies
         run: brew install make ldid meson ninja
 
+      - name: Install Go
+        run: brew install go
+
       - name: Set PATH Environment Variables
         run: |
           echo "$(brew --prefix make)/libexec/gnubin" >> $GITHUB_PATH
