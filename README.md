@@ -16,7 +16,7 @@ Infuse 8.5.5
 
 Facebook 579.0.0
 
-Messenger 579.0.0
+Messenger 580.0.0
 
 Spotify 9.1.84
 
