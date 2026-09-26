@@ -6,7 +6,7 @@ Telegram Bot: @eeveedecrypterbot   ||  [https://armconverter.com](https://armcon
 https://filebin.net/zpgy11f5htuvhq1y 29/09/26 Expire
 OR use https://catbox.moe/ keep files FOREVER
 
-YT 21.38.2 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15] https://github.com/diarrhea3/YTLiteDiarrhea
+YT 21.38.3 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15] https://github.com/diarrhea3/YTLiteDiarrhea
 
 YTM 9.38.1 [v8.20.4 for iOS15]
 
@@ -43,7 +43,7 @@ https://github.com/ballermc/TubeVault-revived
 https://t.me/+FZTBdR6rjrliZGQx
 
 
-https://github.com/Mine-Fork-Project/YTLite
+https://github.com/Mine-Fork-Project/YTLite | https://github.com/dayanch96/YTLite
 
 https://github.com/oldman20/ytkace-0   |   https://github.com/Mine-Fork-Project/yt   |   ~https://github.com/oldman20/YTKACE-1~
 
