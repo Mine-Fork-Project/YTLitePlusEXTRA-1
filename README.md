@@ -12,6 +12,11 @@ YT 21.39.4 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15] https://githu
 iOS 16 base, 21.33.6
 iOS 17+ base, 21.39.4
 ```
+**[Implemented tweaks:](https://github.com/AppropriateNet2928/YTLitePlusRenewed#implemented-tweaks)**
+```
+https://github.com/Mark02-2012/YTPlaybackFix
+It simply works by reloading the video every time the "something went wrong" error appears, so you only see a small black screen for a maximum of one second.
+```
 
 YTM 9.39.2 [v8.20.4 for iOS15]
 
@@ -80,12 +85,6 @@ https://github.com/kekeimiku/LuckySpeeder/releases 1.0.2 [use arm64-apple-ios ve
 https://github.com/34306/Patched-TS-App 1.0
 
 `C:\Users\Chuctran\AppData\Local\Sideloadly\MATERIALS`
-
-```
-https://github.com/Mark02-2012/YTPlaybackFix
-It simply works by reloading the video every time the "something went wrong" error appears, so you only see a small black screen for a maximum of one second.
-```
-[Implemented tweaks:](https://github.com/AppropriateNet2928/YTLitePlusRenewed#implemented-tweaks)
 
 # YTLitePlusEXTRA
 This is a fork repo from YTLite but adds more tweaks similar to YTLitePlus for those who can't build IPA or The app is unusable.
