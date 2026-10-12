@@ -6,7 +6,7 @@ Telegram Bot: @eeveedecrypterbot   ||  [https://armconverter.com](https://armcon
 https://filebin.net/zpgy11f5htuvhq1y 29/09/26 Expire
 OR use https://catbox.moe/ keep files FOREVER
 
-YT 21.40.5 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15] https://github.com/diarrhea3/YTLiteDiarrhea
+YT 21.41.5 [Since v20.22.1 require iOS 16+, so v20.21.6 for iOS15] https://github.com/diarrhea3/YTLiteDiarrhea
 
 ```
 iOS 16 base, 21.33.6
