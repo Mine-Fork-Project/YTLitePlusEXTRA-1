@@ -24,9 +24,9 @@ YTM 9.41.2 [v8.20.4 for iOS15]
 
 Infuse 8.5.7
 
-Facebook 582.0.0
+Facebook 583.0.0
 
-Messenger 582.0.0
+Messenger 583.0.0
 
 Spotify 9.1.90
 
