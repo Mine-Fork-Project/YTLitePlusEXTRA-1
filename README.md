@@ -22,7 +22,7 @@ YTM 9.41.2 [v8.20.4 for iOS15]
 
 **https://dvntm.com**
 
-Infuse 8.5.7
+Infuse 8.5.8
 
 Facebook 583.0.0
 
