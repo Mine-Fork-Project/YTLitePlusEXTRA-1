@@ -18,13 +18,13 @@ https://github.com/Mark02-2012/YTPlaybackFix
 It simply works by reloading the video every time the "something went wrong" error appears, so you only see a small black screen for a maximum of one second.
 ```
 
-YTM 9.41.2 [v8.20.4 for iOS15]
+YTM 9.42.2 [v8.20.4 for iOS15]
 
 **https://dvntm.com**
 
 Infuse 8.5.8
 
-Facebook 583.0.0
+Facebook 584.0.0
 
 Messenger 584.0.0
 
