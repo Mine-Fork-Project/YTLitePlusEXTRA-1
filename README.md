@@ -28,7 +28,7 @@ Facebook 584.0.0
 
 Messenger 584.0.0
 
-Spotify 9.1.90
+Spotify 9.1.92
 
 =============
 <img width="1448" height="322" alt="image" src="https://github.com/user-attachments/assets/8ea6a4a8-7508-46fb-be80-f79370be16ae" />
