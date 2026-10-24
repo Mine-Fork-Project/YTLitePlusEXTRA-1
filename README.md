@@ -24,11 +24,11 @@ YTM 9.42.2 [v8.20.4 for iOS15]
 
 Infuse 8.5.8
 
-Facebook 584.0.0
+Facebook 584.1.0
 
 Messenger 584.0.0
 
-Spotify 9.1.92
+Spotify 9.1.94
 
 =============
 <img width="1448" height="322" alt="image" src="https://github.com/user-attachments/assets/8ea6a4a8-7508-46fb-be80-f79370be16ae" />
