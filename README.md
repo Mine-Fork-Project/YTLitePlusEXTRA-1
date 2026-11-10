@@ -22,13 +22,13 @@ YTM 9.45.2 [v8.20.4 for iOS15]
 
 **https://dvntm.com**
 
-Infuse 8.5.9
+Infuse 8.5.10
 
 Facebook 586.0.0
 
 Messenger 586.0.0
 
-Spotify 9.1.94
+Spotify 9.1.98
 
 =============
 <img width="1448" height="322" alt="image" src="https://github.com/user-attachments/assets/8ea6a4a8-7508-46fb-be80-f79370be16ae" />
