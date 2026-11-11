@@ -24,7 +24,7 @@ YTM 9.45.2 [v8.20.4 for iOS15]
 
 Infuse 8.5.10
 
-Facebook 586.0.0
+Facebook 587.0.0
 
 Messenger 586.0.0
 
